@@ -1,0 +1,9 @@
+---
+---
+
+/* Try this, remove leading ./, don't like it. */
+header h1:before {
+  content: "";
+}
+
+@import "{{ site.theme }}";
