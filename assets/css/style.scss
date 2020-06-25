@@ -1,0 +1,15 @@
+---
+---
+
+/* Personally, don't like the header. */
+header h1:before {
+  content: "";
+  font-size: 24px;
+}
+
+/* Don't like the green. */
+h1, h2, h3, h4, h5, h6 {
+  color: white;
+}
+
+@import "{{ site.theme }}";
