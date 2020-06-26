@@ -4,6 +4,7 @@ layout: default
 
 ## Public Notes
 
-A collection of smalls notes on various things. Testing layout:
+A collection of small notes on various things.
 
- - [Foo Notes.](./Foo/toc.html)
+ * [Python][./Python/index.md]
+ * [Rust][./Rust/index.md]
