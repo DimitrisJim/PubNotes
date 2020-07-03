@@ -8,7 +8,7 @@ The little known, lower-level counterpart to APIs, an application
 binary interface is, as the name entails, an interface but on
 the binary level.
 
-##### A little side note on interfaces
+## A little side note on interfaces
 
 Interfaces, at least in compsci land, are basically a set of
 rules that answer the question *"How can I communicate with you?"*. An interface is a public display of the means of
@@ -21,7 +21,7 @@ they (usually) also require certain pre-conditions (e.g a file needs to be opene
 post-conditions (e.g the list is sorted in ascended order) and specify error/panic situations and certain
 complexity guarantees (e.g error if memory runs out, guarantee worse case `O(N)` complexity).
 
-##### ABI and API, are we so different?
+## ABI and API, are we so different?
 
 The common distinction I've seen made between API and ABI is that
 API is an interface on the source level while ABI is on the
@@ -34,7 +34,7 @@ you don't need to trouble yourself with what is going on underneath (at least
 you usually dont!): the language runtime takes care of these things for you,
 it's the abstraction it offers.
 
-##### Compatibility
+## Compatibility
 
 
 
