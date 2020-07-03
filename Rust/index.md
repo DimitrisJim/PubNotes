@@ -6,4 +6,4 @@ layout: default
 
 A collection of small notes on Rust.
 
- - [Workspaces](./Workspaces.md)
+ * [Workspaces](./Workspaces.md)
