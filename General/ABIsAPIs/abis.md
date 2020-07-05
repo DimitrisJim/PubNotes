@@ -16,10 +16,6 @@ the binary level.
 [nodejsabi]: https://nodejs.org/uk/docs/guides/abi-stability/
 [systemvabi]: https://wiki.osdev.org/System_V_ABI
 [redhatabi]: https://accu.org/content/conf2015/JonathanWakely-What%20Is%20An%20ABI%20And%20Why%20Is%20It%20So%20Complicated.pdf
-[pyabi]: https://www.python.org/dev/peps/pep-0384/
-[wikiabi]: https://en.wikipedia.org/wiki/Binary-code_compatibility
-[abibreak]: https://www.acodersjourney.com/20-abi-breaking-changes/
-[bincompkde]: https://community.kde.org/Policies/Binary_Compatibility_Issues_With_C%2B%2B
 [apiabiyt]: https://www.youtube.com/watch?v=k9PLRAnnEmE
 [apiabitytnotes]: https://github.com/CppCon/CppCon2017/blob/master/Presentations/API%20%26%20ABI%20Versioning/API%20%26%20ABI%20Versioning%20-%20Mathieu%20Ropert%20-%20CppCon%202017.pdf
 
