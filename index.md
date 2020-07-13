@@ -7,4 +7,4 @@ layout: default
 A collection of small notes on various things.
 
  * [Python](./Python/index.md)
- * [Rust](./Rust/index.md)
+ * [Rust](./Rust/index.md) 
