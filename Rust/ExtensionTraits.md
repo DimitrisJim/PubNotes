@@ -28,4 +28,7 @@ impl<T> ReverseEx for Vec<T>
 
 and now our extension trait `ReverseEx` allows us to use `reverse` on vectors.
 
+Note: We can only access the public interface of the type we are implementing.
+Visibility rules dictate that items that are private can only be accessed from its current module or its decendants (i.e `vec.rs` or any of its decendants, if it had any.)
+
 [error0116]: https://doc.rust-lang.org/stable/error-index.html#E0116
