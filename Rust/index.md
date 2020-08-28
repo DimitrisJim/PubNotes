@@ -11,3 +11,4 @@ A collection of small notes on Rust. Still slowly learning.
  * [Extension Traits](./ExtensionTraits.md)
  * [Supertraits & Trait bounds](./SuperTraits.md)
  * [Traits In Docs](./AutoBlanketImpls.md)
+ * [Automatic Dereference](./AutoDeref.md)
