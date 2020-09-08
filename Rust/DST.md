@@ -38,3 +38,4 @@ struct MyDST {
 [babystepsDSTs]: https://smallcultfollowing.com/babysteps/blog/2013/11/26/thoughts-on-dst-1/
 [existentialTypes]: https://stackoverflow.com/questions/292274/what-is-an-existential-type
 [externTypes]: https://github.com/rust-lang/rfcs/blob/master/text/1861-extern-types.md
+[customDSTs]: https://github.com/rust-lang/rfcs/pull/2594
