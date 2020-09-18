@@ -4,7 +4,7 @@ layout: default
 
 ## Rust
 
-A collection of small notes on Rust. Still slowly learning.
+A collection of small notes on Rust. Still slowly learning. Expect dumbness until it stops.
 
  * [Workspaces](./Workspaces.md)
  * [Debugging](./Debugging.md)
