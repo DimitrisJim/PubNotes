@@ -6,6 +6,7 @@ layout: default
 
 A collection of small notes on Rust. Still slowly learning. Expect dumbness until it stops.
 
+ * [My Rust Mistakes](./MyMistakes.md)
  * [Workspaces](./Workspaces.md)
  * [Debugging](./Debugging.md)
  * [Extension Traits](./ExtensionTraits.md)
